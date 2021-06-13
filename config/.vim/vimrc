@@ -1,0 +1,14 @@
+set nocompatible
+
+set autoindent
+set backspace=indent,eol,start
+set softtabstop=4
+set shiftwidth=4
+set expandtab
+
+set updatetime=100
+set nu
+set hidden
+set incsearch
+set ruler
+set wildmenu
